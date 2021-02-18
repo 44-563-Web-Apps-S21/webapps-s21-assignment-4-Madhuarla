@@ -1,0 +1,27 @@
+.speech{
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+}
+.stage-direction{
+    font-family:sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: cadetblue;
+}
+.name{
+    font-family:Helvetica;
+    font-size: 15px;
+    color: black;
+}
+.stage-direction:hover{
+    
+    color:blueviolet;
+    background-color:coral;
+}
+.ANTONIO{
+    color:mediumaquamarine;
+}
+.SEBASTIAN{
+    color: orange;
+}
