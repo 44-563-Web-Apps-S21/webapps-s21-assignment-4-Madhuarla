@@ -25,3 +25,32 @@
 .SEBASTIAN{
     color: orange;
 }
+.MALVOLIO{
+    color:royalblue;
+
+}
+.VIOLA{
+    color: steelblue;
+}
+table{
+    color:rgb(236, 44, 108);
+    text-align: center;
+    border: 6px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+tr:nth-child(odd){
+    background-color:powderblue;
+}
+.name:hover{
+    text-shadow: 2px 2px blueviolet;
+    border: 3px solid black;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    display: inline;
+}
